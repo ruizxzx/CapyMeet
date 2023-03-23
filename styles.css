@@ -69,10 +69,11 @@ h3 {
 }
 
 p {
-    font-family: 'Ubuntu';
-    color: #8f8f8f;
+   font-weight: 500;
+    color: #000000;
     
 }
+
 
 .icon {
     color: #ef8172;
@@ -82,10 +83,10 @@ p {
     color: #ff4c68;
 }
 h2 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 2rem;
-    font-weight: 700;
-    line-height: 1.2; /* adjust the line-height property */
+    font-weight: bold;
+    line-height: 1.5; /* adjust the line-height property */
     padding-top: 50px;
     padding-bottom: 0px;
 }
@@ -157,4 +158,8 @@ h2 {
     width: 5%;
     margin-bottom: 10%;
     margin-top: 5%;
+ }
+ .prem-text {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
  }
