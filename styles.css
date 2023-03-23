@@ -30,7 +30,7 @@ h1 {
 .nav-link {
     font-size: 1.2rem;
     font-family: 'Montserrat';
-    font-weight: normal;
+    font-weight: 600;
 }
 .download-btn {
     margin: 5% 3% 5% 0;
