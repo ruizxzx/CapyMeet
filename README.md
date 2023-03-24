@@ -20,7 +20,5 @@ I like to keep it simple. My goals are to focus on typography, content and conve
 
 ## Screenshots
 
-https://ibb.co/XLrScvB
-<img src="https://ibb.co/XLrScvB" alt="screenshot">
 
 ![ruizxzx github io_CapyMeet_](https://user-images.githubusercontent.com/128290052/227450579-13946ad5-860e-48b8-b248-fda7d9012a96.png)
