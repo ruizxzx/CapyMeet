@@ -21,5 +21,5 @@ I like to keep it simple. My goals are to focus on typography, content and conve
 ## Screenshots
 
 https://ibb.co/XLrScvB
-
+<img src="https://ibb.co/XLrScvB" alt="screenshot">
 
