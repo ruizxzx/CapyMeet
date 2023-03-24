@@ -7,10 +7,6 @@ With CapyMeet, you can create a profile, browse through hundreds of other Capyba
 Our platform is safe, secure, and user-friendly, so you can focus on what matters most - finding love and companionship. And for those who are serious about finding their perfect match, we offer a premium subscription that unlocks even more features and benefits.
 
 So why wait? Join CapyMeet today and start connecting with other Capybara lovers who are looking for love and companionship just like you.
-## Acknowledgements
-
-Angela Yu- My instructor who helped me building this awesome project!
-
 
 ## 🚀 About Me
 I'm a I am a passionate Full stack web developer / designer. based in Kolkata, India. I have a passion for web developing and designing and love to create for web and mobile devices.
@@ -22,3 +18,9 @@ I like to keep it simple. My goals are to focus on typography, content and conve
 
 
 ![ruizxzx github io_CapyMeet_](https://user-images.githubusercontent.com/128290052/227450579-13946ad5-860e-48b8-b248-fda7d9012a96.png)
+## Acknowledgements
+
+
+Angela Yu- My instructor who helped me building this awesome project!
+
+
